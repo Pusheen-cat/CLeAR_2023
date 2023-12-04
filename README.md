@@ -21,7 +21,7 @@ This repository provides an implementation of the paper [CLeAR: Continual Learni
 
 It contains all code, datasets, and models necessary to reproduce the paper's results. 
 
-This was built based on the NNCH: https://github.com/google-deepmind/neural_networks_chomsky_hierarchy, so it shares many parts of the code.
+This was built based on the [NNCH](https://github.com/google-deepmind/neural_networks_chomsky_hierarchy), so it shares many parts of the code.
 ## Content
 
 ```
