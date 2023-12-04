@@ -56,6 +56,7 @@ This was built based on the [NNCH](https://github.com/google-deepmind/neural_net
 └── requirements.txt          - Dependencies
 ```
 *Same as [NNCH](https://github.com/google-deepmind/neural_networks_chomsky_hierarchy)
+
 'tasks' contains all tasks, organized in their Chomsky hierarchy levels (regular, dcf, cs). They all inherit the abstract class GeneralizationTask, defined in tasks/task.py.
 
 'models' contains all the models we use, written in [jax](https://github.com/google/jax) and [haiku](https://github.com/deepmind/dm-haiku), two open source libraries.
